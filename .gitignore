@@ -1,5 +1,6 @@
 coverage/
 node_modules/
+mas_pruebas/
 .DS_Store
 *.log
 
